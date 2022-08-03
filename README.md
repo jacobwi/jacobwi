@@ -12,7 +12,7 @@
 - 👨‍💻 My portfolio is available at [https://www.jacobwi.io/](https://www.jacobwi.io/)
 
 
-- 📫 How to reach me **me@jacobwi.net**
+- 📫 Reach me at **me@jacobwi.net**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobwi&label=Profile%20views&color=0e75b6&style=flat" alt="jacobwi" /> </p>  
   
 <h3 align="left">Connect with me:</h3>  

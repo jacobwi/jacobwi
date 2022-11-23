@@ -1,6 +1,8 @@
 
-<h3 align="center">A passionate Software Engineer from USA  🇺🇸</h3>  
-  <img width="100%" height="auto" src="https://i.imgur.com/teBb0SL.gif" />
+<p align="center">
+	<img src="https://raw.githubusercontent.com/jacobwi/jacobwi/main/main.svg?sanitize=true" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">I am a Full Stack Software Engineer.</h3>
 

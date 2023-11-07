@@ -7,9 +7,6 @@
 <h3 align="center">I am a Full Stack Software Engineer.</h3>
 
 
-- 🔭 I’m currently working on **Catish** (Self-hosted P2P/Web file sharing using appwrite and reactjs) and **Pastish** (Self-hosted pastebin using blazor and ASP.NET .)
-
-- 🌱 I’m currently learning **GoLang, .NET MAUI**
 
 - 👨‍💻 My portfolio is available at [https://www.jacobwi.io/](https://www.jacobwi.io/)
 

@@ -7,15 +7,9 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">I am a Full Stack Software Engineer.</h3>
 
-
-
-- 👨‍💻 My portfolio is available at [https://www.jacobwi.io](https://www.jacobwi.io/)
-
-
-- 📫 Reach me at **me@jacobwi.net**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobwi&label=Profile%20views&color=0e75b6&style=flat" alt="jacobwi" /> </p>  
   
-<h3 align="left">Connect with me:</h3>  
+
 
 <h3 align="left">Toolbox 🧰</h3>
 
